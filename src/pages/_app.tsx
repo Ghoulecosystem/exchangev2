@@ -100,8 +100,7 @@ const App = ({ Component, pageProps }: AppPropsWithLayout) => {
   return (
     <ErrorBoundary>
       <Menu />
-      <div style={{ position: 'relative', display: 'flex', flexDirection: 'column'}}>
-        <div style={{flexGrow: 1}}>
+        <div style={{marginTop: '1%', marginBottom: '80px'}}>
         <Layout>
           <Component {...pageProps} />
         </Layout>
@@ -116,14 +115,9 @@ const App = ({ Component, pageProps }: AppPropsWithLayout) => {
               height: '40px',
               zIndex: 5,
               display: 'flex',
-              marginTop: '80px',
-              flexShrink: 0,
-              paddingLeft: '3%',
-              paddingRight: '3%',
             }}
           />
         )}
-      </div>
       <EasterEgg iterations={2} />
       <ToastListener />
       <SubgraphHealthIndicator />
