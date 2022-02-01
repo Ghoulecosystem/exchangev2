@@ -125,9 +125,9 @@ export const mainnetTokens = defineTokens({
     MAINNET,
     '0xF92b9A2B34efe45a8280629a7DFa404aeE18849f',
     18,
-    'gDai',
-    'GhostDAI Token',
-    'https://www.ghoultoken.io/',
+    'gDAI',
+    'gDAI Token',
+    'https://ghoul.finance/',
   ),
   ghoul: new Token(
     MAINNET,
@@ -143,7 +143,7 @@ export const mainnetTokens = defineTokens({
     18,
     'GHOULX',
     'GhoulX Token',
-    'https://www.ghoultoken.io/',
+    'https://ghoul.finance/',
   ),
   kalm: new Token(
     MAINNET,
