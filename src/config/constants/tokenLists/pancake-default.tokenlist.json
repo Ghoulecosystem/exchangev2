@@ -16,7 +16,7 @@
       "address": "0x171cE6141E7a5980222bc6B757ee2F1f95b3264e",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://www.ghoultoken.io/images/logo.png"
+      "logoURI": "https://ghoul.finance/0x171cE6141E7a5980222bc6B757ee2F1f95b3264e.png"
     },   
     {
       "name": "GhoulX Token",
@@ -24,7 +24,7 @@
       "address": "0xcfc5cf2a73e97401c218b7ce1c594524bd8ba4bf",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://www.ghoultoken.io/images/logox2.png"
+      "logoURI": "https://ghoul.finance/0xcfc5cf2a73e97401c218b7ce1c594524bd8ba4bf.png"
     },     
     {
       "name": "gDAI Stablecoin",
@@ -32,7 +32,7 @@
       "address": "0xF92b9A2B34efe45a8280629a7DFa404aeE18849f",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://www.ghoultoken.io/images/ghostdai.png"
+      "logoURI": "https://ghoul.finance/0xF92b9A2B34efe45a8280629a7DFa404aeE18849f.png"
     },
     {
       "name": "DAI Stablecoin",
